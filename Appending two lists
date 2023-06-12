@@ -1,0 +1,6 @@
+First_Person = ["Preethi", "Sunanda"]
+Second_Person =["vignyala","Veganti"]
+Full_names[]
+for i in range(len(First_Person)):
+Full_names.append(First_Person[i]+Second_Person[i])
+print(Full_names)
